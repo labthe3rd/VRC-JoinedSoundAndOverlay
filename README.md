@@ -14,3 +14,5 @@ UdonSharp
 This package was created to share the script but feel free to use the audio clips and text mesh pro font if you want. 
 
 To use the prefab drag and drop into your scene. You can change the sound via the audio source and can edit the TMP font/position to your liking! 
+
+![Preview Image](/Images/PlayerJoinedPreviewImage.png)
